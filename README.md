@@ -33,7 +33,7 @@ The installer features a game selection page where one selects the game they wan
   2) Any necessary game exe's with No-CD patched versions (only applies to games prior to C&C3; those exe's are directly patched to not have command line functionality at all)
   3) All associated .par files with ones patched to not require Origin to launch when launching a game
   
-**If you want any other features included in this installer, feel free to add an issue and label it with the "Feature" label.**
+**If you want any other features included in this installer, feel free to add an issue and label it with the "feature request" label.**
   
   ### **For C&C95**
 The 1.06c patch made by Nyerguds is also installed as a necessary feature. Permission has been granted to me to use this patch by Nyerguds within my installer. The patch includes bugfixes and other features to enhance the overall gameplay of C&C95 along with making the game properly compatible on most modern machines. More info available here concerning the 1.06c patch:
