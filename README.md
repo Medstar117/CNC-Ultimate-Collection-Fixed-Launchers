@@ -1,9 +1,9 @@
 # Fixed Launchers for Command & Conquer: The Ultimate Collection
 
 <p align="center">
- <a href="https://github.com/Medstar117/CNC-Ultimate-Collection-Fixed-Launchers/releases/download/v1.01/Fixed_TUC_Launchers_v1.01.zip">
+ <a href="https://www.moddb.com/games/cc-generals/downloads/new-fixed-ultimate-collection-launchers-v101">
   <span>
-   <strong>>>>>>>>>>>DOWNLOAD LATEST RELEASE<<<<<<<<<<</strong>
+   <strong>>>>>>>>>>>DOWNLOAD LATEST RELEASE FROM MODDB<<<<<<<<<<</strong>
   </span>
  </a>
 </p>
