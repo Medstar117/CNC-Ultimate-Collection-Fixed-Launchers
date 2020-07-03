@@ -1,0 +1,33 @@
+v1.01 - Bugfixes
+  
+  + Fixed a minor bug in the installer that makes the "Next" button on the game selection page always stay selectable,
+    even when no game is selected
+  
+  + Updated information page to reflect new patch number; and updated the formatting a bit
+
+  + Cleaned up installer page that shows what all is being installed; set it to where it'll just say which game
+    is being updated and what patches are being installed instead of EVERY SINGLE ACTION being done
+
+  + Added PARToolManager to automatically edit all .par files in a specified game directory (makes use of Ekey's EAPARTool)
+    This also fixes the issue regarding German installations not being patched correctly
+
+  + Fixed a .par-related bug that prevented Tiberian Twilight from starting
+
+  + Added game-detection support for 32bit OS'es
+
+  + Added ResEdit, which automatically edits the options.ini file for Generals and Zero Hour to use the primary monitor's
+    native resolution--or it adds a new options.ini file with the correct resolution set if the file doesn't exist
+    (fixes a crash-on-start error)
+
+  + Fixed a bug that prevented the -modconfig parameter from working
+
+  - Removed included .par files as they were deemed unneccessary due to PARToolManager being added 
+
+------------------------------------------------------------------------------------------------------------------------
+
+v1.00 - First Public Release
+
+  + Released first version of the installer along with LICENSE.txt
+
+  + Added funtion to installer script that automatically deletes dbghelp.dll from one's Generals and Zero Hour directory
+    (fixes a crash-on-start error)
