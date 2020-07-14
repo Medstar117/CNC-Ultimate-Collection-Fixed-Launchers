@@ -1,17 +1,15 @@
 # Fixed Launchers for Command & Conquer: The Ultimate Collection
 
 <p align="center">
- <a href="https://www.moddb.com/games/cc-generals/downloads/new-fixed-ultimate-collection-launchers-v101">
-  <span>
-   <strong>>>>>>>>>>>DOWNLOAD LATEST RELEASE FROM MODDB<<<<<<<<<<</strong>
-  </span>
+ <a href="https://www.moddb.com/games/cc-generals/downloads/new-fixed-ultimate-collection-launchers-v101" title="Download *New* Fixed Ultimate Collection Launchers v1.01 - Mod DB" target="_blank">
+  <img src="https://button.moddb.com/download/medium/197063.png" alt="*New* Fixed Ultimate Collection Launchers v1.01" width=390 height=75 />
  </a>
 </p>
 
 <p align="center">
  <a href="https://github.com/Medstar117/CNC-Ultimate-Collection-Fixed-Launchers/blob/master/Patch%20Notes.txt">
   <span>
-   <strong>>>>>>>>>>>LATEST PATCH NOTES<<<<<<<<<<</strong>
+   <strong>>>>>>>>>>LATEST PATCH NOTES<<<<<<<<<</strong>
   </span>
  </a>
 </p>
